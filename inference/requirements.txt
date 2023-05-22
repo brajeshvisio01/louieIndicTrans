@@ -1,0 +1,9 @@
+sacremoses
+subword_nmt
+tqdm
+indic-nlp-library
+mosestokenizer
+inference
+torch
+# collections
+# ast
